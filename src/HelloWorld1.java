@@ -7,7 +7,6 @@ public class HelloWorld {
 		System.out.println("Modified by some x");
 		System.out.println("Added line without eclipse");
 		System.out.println("added line in github");
-<<<<<<< HEAD
 		System.out.println("Added new line without eclipse");
 =======
 		System.out.println("added new line in github");
